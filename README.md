@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 	<br/>
 	<a href="https://stackoverflow.com/users/758836/loretoparisi"><img src="https://stackoverflow.com/users/flair/758836.png?theme=clean" width="208" height="58" alt="profile for loretoparisi at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for loretoparisi at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=loretoparisi&show_icons=true&locale=en" alt="loretoparisi" /></p>
